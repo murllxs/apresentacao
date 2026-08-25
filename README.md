@@ -20,14 +20,14 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                    MURILO_OS v1.0                            │
+│                      MURILO_AMARAL                           │
 ├──────────────────────────────────────────────────────────────┤
 │ STATUS       : ONLINE                                        │
-│ ROLE         : SOFTWARE DEVELOPMENT STUDENT                 │
-│ FOCUS        : SYSTEMS DEVELOPMENT                           │
-│ ENVIRONMENT  : VS CODE + GITHUB                              │
-│ MODE         : BUILDING                                      │
-│ OBJECTIVE    : TURN IDEAS INTO SOFTWARE                      │
+│ FUNÇÃO       : ESTUDANTE DE DESENVOLVIMENTO DE SOFTWARE      │
+│ FOCO         : DESENVOLVIMENTO DE SISTEMAS                   │
+│ AMBIENTE     : VS CODE + GITHUB                              │
+│ MODO         : CONSTRUINDO                                   │
+│ OBJETIVO     : TRANSFORMAR IDEIAS EM SOFTWARE                │
 └──────────────────────────────────────────────────────────────┘
 ```
 
